@@ -68,8 +68,3 @@ This project is licensed under the MIT License.
 ---
 
 Made with ❤ by LV
-
-
----
-
-Let me know if you'd like help generating the actual screenshot path, setting up a live demo link (e.g., with Vercel or Netlify), or customizing anything else!
