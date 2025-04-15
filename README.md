@@ -1,8 +1,3 @@
-Nice! You're off to a great start with the README. Here's a *completed version* with all the sections filled in — just customize the [your tech stack] part and update any links you need:
-
----
-
-markdown
 # 🎬 YouTube Video Planner
 
 YouTube Video Planner is a sleek and user-friendly web app that helps content creators manage and organize their video production workflow. Whether you're planning your next big video or keeping track of the editing and publishing stages, this app keeps everything in one place.
@@ -34,7 +29,8 @@ npm start
 
 ## 🖼 Screenshot
 
-![App Screenshot](./screenshot.png) <!-- Replace with actual path or remove if not available -->
+![image](https://github.com/user-attachments/assets/61adfb5d-74fb-4caa-92c2-05543b4b070b)
+
 
 ## 📁 Folder Structure (Optional)
 
@@ -71,7 +67,7 @@ This project is licensed under the MIT License.
 
 ---
 
-Made with ❤ by [Your Name or Team]
+Made with ❤ by LV
 
 
 ---
